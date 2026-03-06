@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python tooling caches
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# MacOS junk
+.DS_Store
+
+# Environment variables
+.env
+
+# VSCode settings (optional)
+.vscode/
+
+# Logs
+*.log
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
