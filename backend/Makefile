@@ -1,1 +1,2 @@
-pre-commit run --all
+lint:
+	poetry run pre-commit run --all-files
